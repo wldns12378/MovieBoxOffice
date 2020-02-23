@@ -20,6 +20,7 @@ public class Main {
 			System.out.println("========================================================================");
 			System.out.println("◀  1. Sign in  ▶");
 			System.out.println("◀  2. Sign up  ▶");
+			System.out.println("◀  3. Find Account  ▶");
 			System.out.print(">> ");
 			String input = sc.nextLine();
 			
